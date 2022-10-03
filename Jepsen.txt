@@ -1,0 +1,7 @@
+Jepsen is a software framework and blog post series which attempts to find bugs in distributed databases
+
+When the FoundationDB team set out to build a distributed database, they didn’t start by building a distributed database. Instead, they built a deterministic simulation of a distributed database. They built mocks of networks, filesystems, hosts, which all worked similarly to those you’d see in a real system but with simulated time and resources allowing injection of failures.
+
+because we had very high confidence in the correctness of our code and the changes we were making to it, we could be much more aggressive with regards to the technical architecture of the system
+
+https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/
