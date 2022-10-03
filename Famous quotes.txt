@@ -1,0 +1,7 @@
+Famous quotes
+
+In software engineering, rabbit holes are inevitable.
+You'll research libraries, and not use them. You'll write code, just to delete it.
+This isn't a waste — sometimes you need to go down a few wrong paths, to get to the right one.
+- 	Curtis Einsmann
+
