@@ -5,4 +5,4 @@ If you want to try out SonarQube, check out the Try out SonarQube page for instr
 If you're ready to set up a production instance, check out the Install the Server documentation.
 
 Otherwise, you can also find an overview and common scenarios below or navigate through and search the full documentation in the left pane.
-
+https://www.sonarsource.com/products/sonarqube/
