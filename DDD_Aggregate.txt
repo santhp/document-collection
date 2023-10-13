@@ -1,1 +1,2 @@
 Aggregate is a pattern in Domain-Driven Design. A DDD aggregate is a cluster of domain objects that can be treated as a single unit.
+https://en.wikipedia.org/wiki/Domain-driven_design
