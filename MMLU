@@ -1,0 +1,6 @@
+In artificial intelligence, Measuring Massive Multitask Language Understanding (MMLU) is a benchmark for evaluating the capabilities of large language models.
+
+Benchmark
+It consists of about 16,000 multiple-choice questions spanning 57 academic subjects including mathematics, philosophy, law, and medicine. It is one of the most commonly used benchmarks for comparing the capabilities of large language models, with over 100 million downloads as of July 2024.[1][2]
+
+The MMLU was released by Dan Hendrycks and a team of researchers in 2020[3] and was designed to be more challenging than then-existing benchmarks such as General Language Understanding Evaluation (GLUE) on which new language models were achieving better-than-human accuracy. At the time of the MMLU's release, most existing language models performed around the level of random chance (25%), with the best performing GPT-3 model achieving 43.9% accuracy.[3] The developers of the MMLU estimate that human domain-experts achieve around 89.8% accuracy.[3] As of 2024, some of the most powerful language models, such as Claude 3 and GPT-4, were reported to achieve scores in the mid-80s.[4]
