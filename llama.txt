@@ -1,0 +1,2 @@
+Introducing Llama 3.2
+The open-source AI model you can fine-tune, distill and deploy anywhere is now available in more versions. Choose from 1B, 3B, 11B or 90B, or continue building with Llama 3.1
