@@ -1,0 +1,2 @@
+Software Architecture Monday with Mark Richards is a free monthly software architecture lesson containing a short video about some aspect of software architecture. These lessons contain tips, techniques, and advice to help you in your journey from developer to architect. New lessons will be posted on the first Monday each month. 
+https://www.developertoarchitect.com/lessons/
