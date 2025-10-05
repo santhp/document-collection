@@ -1,0 +1,10 @@
+#Copilot code review
+
+Copilot code review is now in most standard editors and IDEs! 🚀 With this update, you can use Copilot code review directly in Visual Studio and JetBrains IDEs (including IntelliJ IDEA, PyCharm, WebStorm, and more). This adds to existing support in Xcode and Visual Studio Code.
+
+You can now:
+
+Request Copilot code review feedback on your code before you open a pull request, from within JetBrains IDEs and Visual Studio.
+Self-review your changes and get actionable feedback exactly where you write your code.
+Use Copilot code review to catch logic, security, and performance issues, all within your editor of choice.
+Now you can get actionable feedback before others see your code, saving you time in your pull request review process!
